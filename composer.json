@@ -1,0 +1,22 @@
+{
+  "name": "miniorange/keycloak_sso",
+  "description": "Keycloak SSO extension for Typo3 allows your backend and frontend users to log into TYPO3 using Keycloak credentials.",
+  "type": "typo3-cms-extension",
+  "license": [
+    "GPL-2.0-or-later"
+  ],
+  "require": {
+    "typo3/cms-core": "^10. || ^11. || ^12."
+  },
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Miniorange\\KeycloakSSO\\": "Classes/"
+    }
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "keycloak_sso"
+    }
+  }
+}
