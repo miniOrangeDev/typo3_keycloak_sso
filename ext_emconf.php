@@ -15,5 +15,6 @@ $EM_CONF[$_EXTKEY] = [
         'psr-4' => [
             'Miniorange\\KeycloakSSO\\' => 'Classes/',
         ],
-    ]
+    ],
+    'icon' => 'EXT:keycloak_sso/Resources/Public/Icons/miniorange.png'
 ];

@@ -18,5 +18,6 @@
     "typo3/cms": {
       "extension-key": "keycloak_sso"
     }
-  }
+  },
+  "icon": "Resources/Public/Icons/miniorange.png"
 }
