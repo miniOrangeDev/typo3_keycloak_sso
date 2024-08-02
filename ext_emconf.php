@@ -3,6 +3,7 @@
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Keycloak SSO',
     'description' => 'Keycloak SSO extension for Typo3 allows your backend and frontend users to log into TYPO3 using Keycloak credentials.',
+    'author' => 'miniOrange',
     'constraints' => [
         'depends' => [
             'typo3' => '8.7.30-12.4.99',
