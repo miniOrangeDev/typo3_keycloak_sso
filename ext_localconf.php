@@ -97,22 +97,22 @@ call_user_func(
         $iconRegistry->registerIcon(
             'keycloak_sso-plugin-feoidc',
             \TYPO3\CMS\Core\Imaging\IconProvider\BitmapIconProvider::class,
-            ['source' => 'EXT:keycloak_sso/Resources/Public/Icons/miniorange.png']
+            ['source' => 'EXT:keycloak_sso/Resources/Public/Icons/Extension.png']
         );
         $iconRegistry->registerIcon(
             'keycloak_sso-plugin-response',
             \TYPO3\CMS\Core\Imaging\IconProvider\BitmapIconProvider::class,
-            ['source' => 'EXT:keycloak_sso/Resources/Public/Icons/miniorange.png']
+            ['source' => 'EXT:keycloak_sso/Resources/Public/Icons/Extension.png']
         );
         $iconRegistry->registerIcon(
             'keycloak_sso-plugin-logout',
             \TYPO3\CMS\Core\Imaging\IconProvider\BitmapIconProvider::class,
-            ['source' => 'EXT:keycloak_sso/Resources/Public/Icons/miniorange.png']
+            ['source' => 'EXT:keycloak_sso/Resources/Public/Icons/Extension.png']
         );
         $iconRegistry->registerIcon(
             'keycloak_sso-plugin-bekey',
             \TYPO3\CMS\Core\Imaging\IconProvider\BitmapIconProvider::class,
-            ['source' => 'EXT:keycloak_sso/Resources/Public/Icons/miniorange.png']
+            ['source' => 'EXT:keycloak_sso/Resources/Public/Icons/Extension.png']
         );
 
     }

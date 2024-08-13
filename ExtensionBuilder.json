@@ -152,7 +152,7 @@
       "sourceLanguage": "en",
       "state": "alpha",
       "targetVersion": "10.4.3-11.5.0",
-      "version": "1.0.1"
+      "version": "2.0.0"
     },
     "extensionKey": "keycloak_sso",
     "name": "Keycloak SSO",
