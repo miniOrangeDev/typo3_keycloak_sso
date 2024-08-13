@@ -17,7 +17,7 @@ Keycloak SSO
 		keycloak_sso
 
 	:Version:
-		1.0.1
+		2.0.0
 
 	:Language:
 		en

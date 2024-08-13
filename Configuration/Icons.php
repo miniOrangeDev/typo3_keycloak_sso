@@ -18,10 +18,10 @@ use TYPO3\CMS\Core\Imaging\IconProvider\SvgIconProvider;
 return [
     'keycloak_sso-plugin-feoidc' => [
         'provider' => SvgIconProvider::class,
-        'source' => 'EXT:keycloak_sso/Resources/Public/Icons/miniorange.png'
+        'source' => 'EXT:keycloak_sso/Resources/Public/Icons/Extension.png'
     ],
     'keycloak_sso-plugin-response' => [
         'provider' => SvgIconProvider::class,
-        'source' => 'EXT:keycloak_sso/Resources/Public/Icons/miniorange.png'
+        'source' => 'EXT:keycloak_sso/Resources/Public/Icons/Extension.png'
     ]
 ];
