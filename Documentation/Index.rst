@@ -17,7 +17,7 @@ Keycloak SSO
 		keycloak_sso
 
 	:Version:
-		2.0.0
+		|release|
 
 	:Language:
 		en
@@ -54,4 +54,5 @@ Keycloak SSO
 	:titlesonly:
 
 	Installation
+	Configuration
 
