@@ -294,7 +294,7 @@ class BeoidcController extends ActionController
             return 0;
         }
     }
-
+    private string $oidc_object;
     /**
      * @param $postArray
      */
